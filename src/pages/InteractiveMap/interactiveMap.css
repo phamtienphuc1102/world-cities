@@ -1,0 +1,22 @@
+.map-container{
+    height: '100vh';
+}
+
+.map-content{
+    height: '100vh';
+}
+
+.sub-content{
+    position: absolute;
+}
+
+.btn-container{
+    position: 'absolute';
+    z-index:10000; 
+    bottom: 460; 
+    left:500;
+}
+
+.hidden-btn{
+    display: block;
+}
